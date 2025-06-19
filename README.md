@@ -32,7 +32,7 @@ Este é um simples **app de lista de tarefas** (ToDo list) desenvolvido com **Fl
 1. Clone o repositório para sua máquina:
 
     ```bash
-    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+    git clone https:(https://github.com/Aghelena/ToDoList.git)
     cd SEU_REPOSITORIO
     ```
 
