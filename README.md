@@ -10,9 +10,9 @@ Este é um simples **app de lista de tarefas** (ToDo list) desenvolvido com **Fl
 - **Alterar tema**: Alterna entre tema claro e escuro para melhorar a experiência do usuário.
 - **Prioridade das tarefas**: Defina a prioridade das tarefas (baixa, média ou alta).
 
-## Imagens
+## Funcionamento
 
-![App Screenshot](https://example.com/screenshot.png)
+![App Screenshot](https://example.com/screenshot.gif)
 
 ## Tecnologias Utilizadas
 
