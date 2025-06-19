@@ -12,7 +12,7 @@ Este é um simples **app de lista de tarefas** (ToDo list) desenvolvido com **Fl
 
 ## Funcionamento
 
-![App Screenshot](https://example.com/screenshot.gif)
+![App Screenshot](TODOLIST.gif)
 
 ## Tecnologias Utilizadas
 
