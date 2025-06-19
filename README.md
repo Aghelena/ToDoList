@@ -1,5 +1,3 @@
-# ToDoList
-
 # ToDo App - Flutter Estilizado
 
 Este é um simples **app de lista de tarefas** (ToDo list) desenvolvido com **Flutter**. Ele permite que você adicione, remova e marque tarefas como concluídas, além de oferecer uma interface visual moderna com suporte para alternar entre tema claro e escuro.
